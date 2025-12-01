@@ -7,12 +7,8 @@ Un proyecto donde usamos la arquitectura MIPS Pipeline + un descodificador en Py
 
 **Equipo 3 pesos**
 
-**Alumnos:**
-
 Reynoso Natareno Victoria Daniela
-
 Cotero Muñoz Alejandra Quetzali
-
 Estrada Rivera Gustavo de Jesús
 
 25/11/2025
