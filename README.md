@@ -5,6 +5,8 @@ Un proyecto donde usamos la arquitectura MIPS Pipeline + un descodificador en Py
 
 **Prof.** Jorge Ernesto Lopez Arce Delgado
 
+**Equipo 3 pesos**
+
 **Alumnos:**
 
 Reynoso Natareno Victoria Daniela
